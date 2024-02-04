@@ -33,7 +33,6 @@ class LinkedList:
         self.size = 0
         self.begin = None
         self.end = None
-        self.items = list()
 
     def isEmpty(self):
         """
